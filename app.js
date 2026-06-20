@@ -1,6 +1,6 @@
 
-const supabaseUrl = "JOUW_URL"
-const supabaseKey = "JOUW_ANON_KEY"
+const supabaseUrl = "https://gjuinclcenygdvgazaju.supabase.co"
+const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdqdWluY2xjZW55Z2R2Z2F6YWp1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE5ODE0ODQsImV4cCI6MjA5NzU1NzQ4NH0.oxHWZqDXI4vjyg2xJkQA1r17ruiBl_XP0SF3ZFgqMOY"
 
 const supabase = window.supabase.createClient(supabaseUrl, supabaseKey)
 
